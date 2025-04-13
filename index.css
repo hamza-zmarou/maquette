@@ -457,10 +457,15 @@ margin-left:   140px;
 
  }
 
- .M7E2{
+ .M7E21{
     display: flex;
     justify-content: center;
     margin-top: -13%;
+ }
+ .M7E22{
+    color: white;
+    display: flex;
+    justify-content: center;
  }
 
  .fin{
