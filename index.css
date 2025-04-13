@@ -1,0 +1,470 @@
+.mama{
+   
+    background: linear-gradient(278.21deg, #27C0EF 1.66%, #00A8DB 96.78%);
+    padding: 10px;
+    color: #00A8DB;
+}
+.mama1{
+    background: linear-gradient(278.21deg, #27C0EF 1.66%, #00A8DB 96.78%);
+    height: 860px;
+    width: auto;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+}
+.commandes{
+    margin-top: 30px;
+    margin-left: 140px;
+    display: flex;
+    justify-content: space-between;
+    margin-right:  140px;
+}
+
+.ehya{
+    
+    display: flex;
+}
+.ehya2{
+    margin-top: 6px;
+}
+.ehya1{
+    font-size:  30px;
+    
+}
+
+
+
+
+.autrescoms{
+ 
+    display: flex;
+    font-size: 14px;
+    gap: 15px;
+    gap: 20px;
+}
+
+.cms1{
+    display: flex;
+}
+body{
+    margin:0;
+    padding:0;
+    font-family: "DM Sans", sans-serif;
+}
+.Login {
+    width: 95px;
+    height: 38px;
+    border-radius: 6px;
+    background: linear-gradient(278.21deg, #005490 1.66%, #328BCB 96.78%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: -10px;
+}
+
+.Login:hover {
+    background: linear-gradient(278.21deg, #004070 1.66%, #2A7BB5 96.78%);
+}
+
+
+.enfant2{
+    display: flex;
+    
+}
+
+.divee1{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+font-size: 48px;
+line-height: 76px;
+letter-spacing: 0px;
+width: 623px;
+Height: 241px;
+margin-top:  150px;
+margin-left:   140px;
+}
+
+.dive2{
+    border-radius: 50%;
+    size: 40%;
+    margin-left: -19%;
+
+}
+
+.divee2{
+ margin-left: 20%;
+ margin-top: -4%;
+}
+
+.divee3{
+    margin-left: 20%;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: "DM Sans", sans-serif;
+    
+   }
+
+   .divee4{
+    margin-left: 20%;
+    font-size: 16px;
+    
+    display: flex;
+    gap: 20px;
+    
+   }
+
+   .grp19 img {
+    width: 750px;   /* ajuste à ta convenance */
+    height: auto;   /* garde les proportions */
+    margin-left: -5%;
+    margin-top: 7%;
+  }
+  
+   .enf1{
+    background-color: white;
+    width: 180px;
+    height: 50px;
+    border-radius: 1px;
+    cursor: pointer;
+    transition: 0.3s;
+   }
+
+   .enf1:hover{
+    background-color: gainsboro;
+   }
+
+
+   .ecrit{
+    height: 21px;
+    width: 127;
+    color: #00A8DB;
+    margin-left: 19%;
+    
+   }
+
+   .enf2{
+    display: flex;
+   }
+   .dv2{
+    margin-top: 17px;
+    margin-left: 8px;
+}
+
+.mama2{
+    display: flex;
+    margin-top: 5%;
+}
+
+.mama3{
+    display: flex;
+    margin-top: 15%;
+    gap: 210px;
+}
+
+.img2{
+    margin-top: -115%;
+}
+
+.M3E2{
+    margin-top: 6%;
+    font-family: "DM Sans", sans-serif;
+}
+
+.M3E1{
+    margin-left: 5%;
+}
+
+
+  .img1 img {
+    width: 400px;   /* ajuste à ta convenance */
+    height: auto;   /* garde les proportions */
+  }
+  
+
+.M3E2E1{
+    font-size: 36px;
+    color: #034D82;
+    ;
+}
+.M3E2E2{
+    font-size: 16px;
+    color:#90A3B4;
+    ;
+    line-height: 32px;
+}
+.M3E2E3{
+    display: flex;
+    font-size: 17px;
+    color: #04AADD;
+}
+
+
+.M3E2E32{
+    margin-top: 17px;
+    margin-left: 8px;
+}
+
+.mama4{
+    font-family: "DM Sans", sans-serif;
+    margin-top: 15%;
+    display: flex;
+}
+.M4E11{
+    font-size: 36px;
+    color: #034D82;
+    
+}
+
+.M4E1{
+    margin-left: 15%;
+}
+
+.M4E12{
+    color: #90A3B4;
+    ;
+}
+
+.M4E131{
+    display: flex;
+}
+
+.M4E133{
+    margin-top: -4.1%;
+    margin-left: 1%;
+}
+.M4E13{
+    font-size: 16px;
+    color: #90A3B4;
+    gap: 5px;
+}
+
+.M4E14{
+  display: flex;
+}
+
+.M4E141{
+    font-size: 16px;
+    color: #04AADD;
+    ;
+}
+.M4E142{
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+
+  .imgmac img {
+    width: 550px;   /* ajuste à ta convenance */
+    height: auto;   /* garde les proportions */
+  }
+
+
+  .M4E2{
+    margin-top: 6%;
+    margin-left: 5%;
+  }
+
+
+  .mama5{
+    height: 676px;
+    width: auto;
+    background-color:#EFFBFF;
+    ;
+  }
+
+
+
+  .M5ENF11{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    color: #034D82;
+    ;
+  }
+
+  .M5ENF12{
+    display: flex;
+    justify-content: center;
+    color:  #8EA9C1;
+    ;
+  }
+  .M5ENF2{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    margin-top: 8%;
+  }
+
+  .M5ENF21{
+    height: 300px;
+    width: 240px;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.M5ENF22{
+    height: 300px;
+    width: 259px;
+    background-color: white;
+    border-radius: 2%;
+}
+.M5ENF23{
+    height: 300px;
+    width: 259px;
+    background-color: white;
+    border-radius: 2%;
+}
+.M5ENF24{
+    height: 300px;
+    width: 259px;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.M5IMG{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.M5ENF222{
+    margin-left: 27px;
+    font-size: 20px;
+    color:#034D82;
+    ;
+}
+.M5ENF223{
+    margin-left: 27px;
+    font-size: 15px;
+    color:  #8EA9C1;
+}
+
+.M6E111{
+    font-size: 36px;
+    color:#034D82;
+    ;
+}
+
+.M6E112{
+    font-size: 16px;
+    color: #90A3B4;
+    ;
+}
+
+.mama6{
+    margin-top: 15%;
+}
+
+.M6E1{
+    display: flex;
+}
+
+.M6E11{
+    margin-left: 10%;
+}
+
+.M6E12{
+    display: flex;
+    gap: 30px;
+}
+
+
+    .M6E1222{
+        color: #90A3B4;
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+
+.M6E1223{
+    display: flex;
+    gap: 20px;;
+}    
+
+.M6E12232{
+    margin-top: -52px;
+}
+
+.M6E12{
+    margin-top: 3.7%;
+}
+
+.M6E1{
+    gap: 130px;
+}
+
+.M6E1224{
+    margin-left: 5%;
+    display: flex;
+    gap: 8px;
+}
+
+.M6E2{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+
+.M6E2 img {
+    width: 1000px;   /* ajuste à ta convenance */
+    height: auto;   /* garde les proportions */
+  }
+
+ .M7E1{
+    width: auto;
+    height: 600px;
+ }
+
+ .mama7{
+    background-color:#081315;
+    margin-top: 200px;
+ }
+
+ .M7E1{
+    display: flex;
+    gap: 5%;
+    ;
+ }
+
+ .M7E11{
+    margin-top:  9%;
+    margin-left:  13%;
+ }
+
+ .M7E113{
+    display: flex;
+    gap: 10px;
+ }
+ .M7E112{
+    color: #D3D6D8;
+    ;
+ }
+
+
+ .M7E14{
+    color:#D3D6D8;
+    font-size: 16px;
+    line-height: 40px;
+ }
+
+ .M7E13{
+    color: #FFFFFF;
+    font-size: 18px;
+ }
+ .M7E12{
+    margin-top:  7%;
+
+ }
+
+ .M7E2{
+    display: flex;
+    justify-content: center;
+    margin-top: -13%;
+ }
+
+ .fin{
+    background-color: #081315;
+    width:  auto;
+    height: 130px;
+ }
